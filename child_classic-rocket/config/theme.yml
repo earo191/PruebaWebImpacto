@@ -1,0 +1,6 @@
+parent: classic-rocket
+name: child_classic-rocket
+display_name: Child theme of classic-rocket's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false

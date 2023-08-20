@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>importproductscsv</name>
+    <displayName><![CDATA[ImportProductsCsv]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[este modulo importa productos a la tienda mediante csv ]]></description>
+    <author><![CDATA[Earo191]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

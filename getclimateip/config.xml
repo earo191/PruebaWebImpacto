@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>getclimateip</name>
+	<displayName><![CDATA[Clima Address]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[muestra el clima en la ciudad del cliente]]></description>
+	<author><![CDATA[Earo191]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
